@@ -1,0 +1,5 @@
+[{
+"relation": ["delegate_permission/common.handle_all_urls"],
+"target" : { "namespace": "android_app", "package_name": "io.github.hellopwa",
+                "sha256_cert_fingerprints": ["E1:63:0D:25:BC:E0:E7:CB:2E:3A:8A:15:3A:13:87:AC:C0:1D:62:F8:BE:2E:BE:68:57:FF:14:56:60:FF:C6:3B"] }
+}]
